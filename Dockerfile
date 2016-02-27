@@ -1,5 +1,5 @@
 
-FROM gcr.io/falkonry-tercel/spark-base:1.6.0
+FROM docker.io/falkonry/spark-base:latest
 
 # Install a tool to be able to modify /etc/hosts file
 # Ref: https://github.com/hiteshjasani/nim-mungehosts
