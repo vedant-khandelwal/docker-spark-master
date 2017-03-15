@@ -1,5 +1,5 @@
 
-FROM docker.io/falkonry/spark-base:hive
+FROM docker.io/falkonry/spark-base:hive-2.11
 
 # Install a tool to be able to modify /etc/hosts file
 # Ref: https://github.com/hiteshjasani/nim-mungehosts
